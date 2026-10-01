@@ -1,4 +1,3 @@
-<img src="phage.svg" width="90" align="right" alt="Bacteriophage"/>
 
 # Whiteson Lab — UC Irvine
 ### The future is fiber & phage 🫘
